@@ -2,7 +2,7 @@
 
 (github project in progress...)
 
-This is the source code of modeling cell movement with deep reinforcement learning during C. elegans embryogenesis.
+This is the source code of the paper Deep Reinforcement Learning of Cell Movement in the Early Stage of C. elegans Embryogenesis.
 
 Original paper (submitted to Bioinformatics): https://arxiv.org/abs/1801.04600.
 
