@@ -6,6 +6,33 @@ This is the source code of modeling cell movement with deep reinforcement learni
 
 Original paper (submitted to Bioinformatics): https://arxiv.org/abs/1801.04600.
 
+## Prerequisites
+
+Python3
+
+Mesa
+
+Pytorch
+
+Numpy
+
+matplotlib.pyplot
+
+## Usage
+
+<pre>
+python run_dqn.py
+</pre>
+
+## Code structure
+./nuclei/: contains the C. elegans embryogenesis data, used for initialization, and the movements for the environmental cell
+
+./draw_plan.py: code for the visualization of the dynamic embryo, using tkinter
+
+./model.py: core code of the agent-based modeling environment for cell movement
+
+./run_dqn.py: core code for training the migration cell moving under certain regulatory mechanisms
+
 ## Paper citation
 
 If you use this code, please consider citing the following paper at your convenience:
@@ -18,3 +45,7 @@ If you use this code, please consider citing the following paper at your conveni
   year={2018}
 }
 </pre>
+
+## Contact
+
+If you have any questions, Please contact the author Zi Wang (zwang84 at vols dot utk dot edu), the University of Tennessee, Knoxville.
