@@ -1,10 +1,8 @@
 # drl4cellmovement
 
-(github project in progress...)
-
 This is the source code of the paper Deep Reinforcement Learning of Cell Movement in the Early Stage of C. elegans Embryogenesis.
 
-Original paper (submitted to Bioinformatics): https://arxiv.org/abs/1801.04600.
+Original paper (accepted by Bioinformatics https://doi.org/10.1093/bioinformatics/bty323): https://arxiv.org/abs/1801.04600.
 
 ## Prerequisites
 
